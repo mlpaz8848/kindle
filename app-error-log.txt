@@ -1,0 +1,482 @@
+[2025-04-29T02:45:56.972Z] [INFO] App ready, creating window and ensuring directories
+[2025-04-29T02:45:57.218Z] [INFO] System check results: Calibre=true
+[2025-04-29T02:45:57.218Z] [INFO] [Main] Ensuring required directories...
+[2025-04-29T02:45:57.218Z] [INFO] Created directory: /Users/mpittinsky/Kindle/temp
+[2025-04-29T02:45:57.218Z] [INFO] [Main] Directory check complete.
+[2025-04-29T02:45:57.288Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-04-29T02:45:57.288Z] [INFO] Running on: darwin (24.4.0)
+[2025-04-29T02:45:57.288Z] [INFO] Node version: 22.14.0
+[2025-04-29T02:45:57.289Z] [INFO] Electron version: 35.2.1
+[2025-04-29T03:11:36.331Z] [INFO] App ready, creating window and ensuring directories
+[2025-04-29T03:11:36.474Z] [INFO] System check results: Calibre=true
+[2025-04-29T03:11:36.474Z] [INFO] [Main] Ensuring required directories...
+[2025-04-29T03:11:36.474Z] [INFO] [Main] Directory check complete.
+[2025-04-29T03:11:36.547Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-04-29T03:11:36.547Z] [INFO] Running on: darwin (24.4.0)
+[2025-04-29T03:11:36.547Z] [INFO] Node version: 22.14.0
+[2025-04-29T03:11:36.547Z] [INFO] Electron version: 35.2.1
+[2025-04-29T03:11:45.498Z] [INFO] [Progress] Starting task process_1745896305498 with 6 steps
+[2025-04-29T03:11:45.499Z] [INFO] [Progress] Sent update to renderer: 0% - Starting...
+[2025-04-29T03:11:45.499Z] [INFO] [Main] Processing dropped files: 2 items -> ["American Disruption (Stratechery Article 4-9-2025).eml","An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture (Stratechery Interview 4-10-2025).eml"]
+[2025-04-29T03:11:45.499Z] [INFO] [Main] Format preference: auto, Selected template: auto
+[2025-04-29T03:11:45.499Z] [INFO] [Progress] Sent update to renderer: 0% - starting
+[2025-04-29T03:11:45.499Z] [INFO] [Progress] Task process_1745896305498: 16% (1/6)
+[2025-04-29T03:11:45.499Z] [INFO] [Progress] Sent update to renderer: 16% - Processing file 1 of 6
+[2025-04-29T03:11:45.499Z] [INFO] [Progress] Sent update to renderer: 10% - files located
+[2025-04-29T03:11:45.500Z] [INFO] [Main] No direct paths found, trying mail drop handler
+[2025-04-29T03:11:45.500Z] ERROR: [Mail Drop] Unhandled error: path.join is not a function
+[2025-04-29T03:11:45.501Z] ERROR: TypeError: path.join is not a function
+    at MailDropHandler.handleMailDrop (/Users/mpittinsky/Kindle/utils/mail-drop-handler.js:41:16)
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/main.js:639:46)
+    at IpcMainImpl.emit (node:events:518:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-04-29T03:11:45.501Z] [INFO] [Main] Found 2 EML files and 0 PDF files ready for conversion.
+[2025-04-29T03:11:45.501Z] [INFO] [Progress] Task process_1745896305498: 50% (3/6)
+[2025-04-29T03:11:45.501Z] [INFO] [Progress] Sent update to renderer: 50% - Processing file 3 of 6
+[2025-04-29T03:11:45.501Z] [INFO] [Progress] Sent update to renderer: 20% - starting conversion
+[2025-04-29T03:11:45.501Z] [INFO] [Main] Routing to EML processing (2 files)
+[2025-04-29T03:11:45.501Z] [INFO] [Main] Processing 2 EML files
+[2025-04-29T03:11:45.502Z] [INFO] [Progress] Task process_1745896305498: 66% (4/6)
+[2025-04-29T03:11:45.502Z] [INFO] [Progress] Sent update to renderer: 66% - Processing file 4 of 6
+[2025-04-29T03:11:45.502Z] [INFO] [Progress] Sent update to renderer: 20% - Verifying 2 email files...
+[2025-04-29T03:11:45.502Z] [WARN] [Main] File does not exist (multiple EML): American Disruption (Stratechery Article 4-9-2025).eml
+[2025-04-29T03:11:45.502Z] [WARN] [Main] File does not exist (multiple EML): An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture (Stratechery Interview 4-10-2025).eml
+[2025-04-29T03:11:45.502Z] [INFO] [Main] No valid EML files found to combine.
+[2025-04-29T03:11:45.502Z] [INFO] [Progress] Task process_1745896305498 completed in 0.00s
+[2025-04-29T03:11:45.502Z] [INFO] [Progress] Sent update to renderer: 100% - Complete
+[2025-04-29T03:13:19.966Z] [INFO] App ready, creating window and ensuring directories
+[2025-04-29T03:13:20.083Z] [INFO] System check results: Calibre=true
+[2025-04-29T03:13:20.083Z] [INFO] [Main] Ensuring required directories...
+[2025-04-29T03:13:20.083Z] [INFO] [Main] Directory check complete.
+[2025-04-29T03:13:20.140Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-04-29T03:13:20.140Z] [INFO] Running on: darwin (24.4.0)
+[2025-04-29T03:13:20.140Z] [INFO] Node version: 22.14.0
+[2025-04-29T03:13:20.140Z] [INFO] Electron version: 35.2.1
+[2025-04-29T03:13:25.627Z] [INFO] [Progress] Starting task process_1745896405626 with 6 steps
+[2025-04-29T03:13:25.627Z] [INFO] [Progress] Sent update to renderer: 0% - Starting...
+[2025-04-29T03:13:25.627Z] [INFO] [Main] Processing dropped files: 2 items -> ["American Disruption (Stratechery Article 4-9-2025).eml","An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture (Stratechery Interview 4-10-2025).eml"]
+[2025-04-29T03:13:25.627Z] [INFO] [Main] Format preference: auto, Selected template: auto
+[2025-04-29T03:13:25.627Z] [INFO] [Progress] Sent update to renderer: 0% - starting
+[2025-04-29T03:13:25.628Z] [INFO] [Progress] Task process_1745896405626: 16% (1/6)
+[2025-04-29T03:13:25.628Z] [INFO] [Progress] Sent update to renderer: 16% - Processing file 1 of 6
+[2025-04-29T03:13:25.628Z] [INFO] [Progress] Sent update to renderer: 10% - files located
+[2025-04-29T03:13:25.628Z] [INFO] [Main] No direct paths found, trying mail drop handler
+[2025-04-29T03:13:25.629Z] [INFO] [Main] Found 2 EML files and 0 PDF files ready for conversion.
+[2025-04-29T03:13:25.629Z] [INFO] [Progress] Task process_1745896405626: 50% (3/6)
+[2025-04-29T03:13:25.629Z] [INFO] [Progress] Sent update to renderer: 50% - Processing file 3 of 6
+[2025-04-29T03:13:25.629Z] [INFO] [Progress] Sent update to renderer: 20% - starting conversion
+[2025-04-29T03:13:25.629Z] [INFO] [Main] Routing to EML processing (2 files)
+[2025-04-29T03:13:25.629Z] [INFO] [Main] Processing 2 EML files
+[2025-04-29T03:13:25.629Z] [INFO] [Progress] Task process_1745896405626: 66% (4/6)
+[2025-04-29T03:13:25.630Z] [INFO] [Progress] Sent update to renderer: 66% - Processing file 4 of 6
+[2025-04-29T03:13:25.630Z] [INFO] [Progress] Sent update to renderer: 20% - Verifying 2 email files...
+[2025-04-29T03:13:25.630Z] [WARN] [Main] File does not exist (multiple EML): American Disruption (Stratechery Article 4-9-2025).eml
+[2025-04-29T03:13:25.630Z] [WARN] [Main] File does not exist (multiple EML): An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture (Stratechery Interview 4-10-2025).eml
+[2025-04-29T03:13:25.630Z] [INFO] [Main] No valid EML files found to combine.
+[2025-04-29T03:13:25.630Z] [INFO] [Progress] Task process_1745896405626 completed in 0.00s
+[2025-04-29T03:13:25.630Z] [INFO] [Progress] Sent update to renderer: 100% - Complete
+[2025-04-29T03:13:37.922Z] [INFO] [Progress] Starting task process_1745896417922 with 6 steps
+[2025-04-29T03:13:37.923Z] [INFO] [Progress] Sent update to renderer: 0% - Starting...
+[2025-04-29T03:13:37.923Z] [INFO] [Main] Processing dropped files: 2 items -> ["An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture (Stratechery Interview 4-10-2025).eml","American Disruption (Stratechery Article 4-9-2025).eml"]
+[2025-04-29T03:13:37.923Z] [INFO] [Main] Format preference: auto, Selected template: auto
+[2025-04-29T03:13:37.923Z] [INFO] [Progress] Sent update to renderer: 0% - starting
+[2025-04-29T03:13:37.923Z] [INFO] [Progress] Task process_1745896417922: 16% (1/6)
+[2025-04-29T03:13:37.924Z] [INFO] [Progress] Sent update to renderer: 16% - Processing file 1 of 6
+[2025-04-29T03:13:37.924Z] [INFO] [Progress] Sent update to renderer: 10% - files located
+[2025-04-29T03:13:37.924Z] [INFO] [Main] No direct paths found, trying mail drop handler
+[2025-04-29T03:13:37.925Z] [INFO] [Main] Found 2 EML files and 0 PDF files ready for conversion.
+[2025-04-29T03:13:37.925Z] [INFO] [Progress] Task process_1745896417922: 50% (3/6)
+[2025-04-29T03:13:37.925Z] [INFO] [Progress] Sent update to renderer: 50% - Processing file 3 of 6
+[2025-04-29T03:13:37.926Z] [INFO] [Progress] Sent update to renderer: 20% - starting conversion
+[2025-04-29T03:13:37.926Z] [INFO] [Main] Routing to EML processing (2 files)
+[2025-04-29T03:13:37.926Z] [INFO] [Main] Processing 2 EML files
+[2025-04-29T03:13:37.926Z] [INFO] [Progress] Task process_1745896417922: 66% (4/6)
+[2025-04-29T03:13:37.926Z] [INFO] [Progress] Sent update to renderer: 66% - Processing file 4 of 6
+[2025-04-29T03:13:37.926Z] [INFO] [Progress] Sent update to renderer: 20% - Verifying 2 email files...
+[2025-04-29T03:13:37.926Z] [WARN] [Main] File does not exist (multiple EML): An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture (Stratechery Interview 4-10-2025).eml
+[2025-04-29T03:13:37.926Z] [WARN] [Main] File does not exist (multiple EML): American Disruption (Stratechery Article 4-9-2025).eml
+[2025-04-29T03:13:37.926Z] [INFO] [Main] No valid EML files found to combine.
+[2025-04-29T03:13:37.927Z] [INFO] [Progress] Task process_1745896417922 completed in 0.01s
+[2025-04-29T03:13:37.927Z] [INFO] [Progress] Sent update to renderer: 100% - Complete
+[2025-04-29T03:16:28.841Z] [INFO] App ready, creating window and ensuring directories
+[2025-04-29T03:16:28.959Z] [INFO] System check results: Calibre=true
+[2025-04-29T03:16:28.959Z] [INFO] [Main] Ensuring required directories...
+[2025-04-29T03:16:28.959Z] [INFO] [Main] Directory check complete.
+[2025-04-29T03:16:29.018Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-04-29T03:16:29.018Z] [INFO] Running on: darwin (24.4.0)
+[2025-04-29T03:16:29.018Z] [INFO] Node version: 22.14.0
+[2025-04-29T03:16:29.018Z] [INFO] Electron version: 35.2.1
+[2025-04-29T03:16:33.042Z] ERROR: [EML Parser] Error parsing .eml file: File not found: An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture (Stratechery Interview 4-10-2025).eml
+[2025-04-29T03:16:33.043Z] ERROR: Error: File not found: An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture (Stratechery Interview 4-10-2025).eml
+    at parseEmlFile (/Users/mpittinsky/Kindle/utils/eml-parser.js:18:13)
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/main.js:477:30)
+    at IpcMainImpl.emit (node:events:518:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-04-29T03:16:56.813Z] [INFO] [Progress] Starting task process_1745896616813 with 3 steps
+[2025-04-29T03:16:56.815Z] [INFO] [Progress] Sent update to renderer: 0% - Starting...
+[2025-04-29T03:16:56.816Z] [INFO] [Main] Processing dropped files: 1 items -> ["An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture (Stratechery Interview 4-10-2025).eml"]
+[2025-04-29T03:16:56.816Z] [INFO] [Main] Format preference: auto, Selected template: auto
+[2025-04-29T03:16:56.816Z] [INFO] [Progress] Sent update to renderer: 0% - starting
+[2025-04-29T03:16:56.817Z] [INFO] [Progress] Task process_1745896616813: 33% (1/3)
+[2025-04-29T03:16:56.817Z] [INFO] [Progress] Sent update to renderer: 33% - Processing file 1 of 3
+[2025-04-29T03:16:56.817Z] [INFO] [Progress] Sent update to renderer: 10% - files located
+[2025-04-29T03:16:56.817Z] [INFO] [Main] No direct paths found, trying mail drop handler
+[2025-04-29T03:16:56.818Z] [INFO] [Main] Found 1 EML files and 0 PDF files ready for conversion.
+[2025-04-29T03:16:56.818Z] [INFO] [Progress] Task process_1745896616813: 99% (3/3)
+[2025-04-29T03:16:56.818Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 3 of 3
+[2025-04-29T03:16:56.819Z] [INFO] [Progress] Sent update to renderer: 20% - starting conversion
+[2025-04-29T03:16:56.819Z] [INFO] [Main] Routing to EML processing (1 files)
+[2025-04-29T03:16:56.819Z] [INFO] [Main] Processing single EML file: An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture (Stratechery Interview 4-10-2025).eml
+[2025-04-29T03:16:56.819Z] [INFO] [Progress] Task process_1745896616813: 99% (4/3)
+[2025-04-29T03:16:56.819Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 4 of 3
+[2025-04-29T03:16:56.820Z] [INFO] [Progress] Sent update to renderer: 25% - Parsing email file...
+[2025-04-29T03:16:56.820Z] ERROR: File not found: An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture (Stratechery Interview 4-10-2025).eml
+[2025-04-29T03:16:56.820Z] [INFO] [Progress] Task process_1745896616813 completed in 0.01s
+[2025-04-29T03:16:56.820Z] [INFO] [Progress] Sent update to renderer: 100% - Complete
+[2025-04-29T03:17:02.134Z] ERROR: [EML Parser] Error parsing .eml file: File not found: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:17:02.134Z] ERROR: Error: File not found: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+    at parseEmlFile (/Users/mpittinsky/Kindle/utils/eml-parser.js:18:13)
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/main.js:477:30)
+    at IpcMainImpl.emit (node:events:518:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-04-29T03:17:05.528Z] [INFO] [Progress] Starting task process_1745896625528 with 3 steps
+[2025-04-29T03:17:05.528Z] [INFO] [Progress] Sent update to renderer: 0% - Starting...
+[2025-04-29T03:17:05.529Z] [INFO] [Main] Processing dropped files: 1 items -> ["Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml"]
+[2025-04-29T03:17:05.529Z] [INFO] [Main] Format preference: auto, Selected template: generic
+[2025-04-29T03:17:05.529Z] [INFO] [Progress] Sent update to renderer: 0% - starting
+[2025-04-29T03:17:05.529Z] [INFO] [Progress] Task process_1745896625528: 33% (1/3)
+[2025-04-29T03:17:05.529Z] [INFO] [Progress] Sent update to renderer: 33% - Processing file 1 of 3
+[2025-04-29T03:17:05.530Z] [INFO] [Progress] Sent update to renderer: 10% - files located
+[2025-04-29T03:17:05.530Z] [INFO] [Main] No direct paths found, trying mail drop handler
+[2025-04-29T03:17:05.530Z] [INFO] [Main] Found 1 EML files and 0 PDF files ready for conversion.
+[2025-04-29T03:17:05.530Z] [INFO] [Progress] Task process_1745896625528: 99% (3/3)
+[2025-04-29T03:17:05.531Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 3 of 3
+[2025-04-29T03:17:05.531Z] [INFO] [Progress] Sent update to renderer: 20% - starting conversion
+[2025-04-29T03:17:05.531Z] [INFO] [Main] Routing to EML processing (1 files)
+[2025-04-29T03:17:05.531Z] [INFO] [Main] Processing single EML file: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:17:05.531Z] [INFO] [Progress] Task process_1745896625528: 99% (4/3)
+[2025-04-29T03:17:05.531Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 4 of 3
+[2025-04-29T03:17:05.531Z] [INFO] [Progress] Sent update to renderer: 25% - Parsing email file...
+[2025-04-29T03:17:05.531Z] ERROR: File not found: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:17:05.532Z] [INFO] [Progress] Task process_1745896625528 completed in 0.00s
+[2025-04-29T03:17:05.532Z] [INFO] [Progress] Sent update to renderer: 100% - Complete
+[2025-04-29T03:18:43.975Z] [INFO] App ready, creating window and ensuring directories
+[2025-04-29T03:18:44.089Z] [INFO] System check results: Calibre=true
+[2025-04-29T03:18:44.090Z] [INFO] [Main] Ensuring required directories...
+[2025-04-29T03:18:44.090Z] [INFO] [Main] Directory check complete.
+[2025-04-29T03:18:44.152Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-04-29T03:18:44.152Z] [INFO] Running on: darwin (24.4.0)
+[2025-04-29T03:18:44.152Z] [INFO] Node version: 22.14.0
+[2025-04-29T03:18:44.152Z] [INFO] Electron version: 35.2.1
+[2025-04-29T03:18:58.653Z] ERROR: [EML Parser] Error parsing .eml file: File not found: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:18:58.654Z] ERROR: Error: File not found: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+    at parseEmlFile (/Users/mpittinsky/Kindle/utils/eml-parser.js:18:13)
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/main.js:477:30)
+    at IpcMainImpl.emit (node:events:518:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-04-29T03:19:01.455Z] [INFO] [Progress] Starting task process_1745896741455 with 3 steps
+[2025-04-29T03:19:01.456Z] [INFO] [Progress] Sent update to renderer: 0% - Starting...
+[2025-04-29T03:19:01.456Z] [INFO] [Main] Processing dropped files: 1 items -> ["Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml"]
+[2025-04-29T03:19:01.456Z] [INFO] [Main] Format preference: auto, Selected template: generic
+[2025-04-29T03:19:01.457Z] [INFO] [Progress] Sent update to renderer: 0% - starting
+[2025-04-29T03:19:01.457Z] [INFO] [Progress] Task process_1745896741455: 33% (1/3)
+[2025-04-29T03:19:01.457Z] [INFO] [Progress] Sent update to renderer: 33% - Processing file 1 of 3
+[2025-04-29T03:19:01.457Z] [INFO] [Progress] Sent update to renderer: 10% - files located
+[2025-04-29T03:19:01.457Z] [INFO] [Main] No direct paths found, trying mail drop handler
+[2025-04-29T03:19:01.458Z] [INFO] [Main] Found 1 EML files and 0 PDF files ready for conversion.
+[2025-04-29T03:19:01.458Z] [INFO] [Progress] Task process_1745896741455: 99% (3/3)
+[2025-04-29T03:19:01.458Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 3 of 3
+[2025-04-29T03:19:01.458Z] [INFO] [Progress] Sent update to renderer: 20% - starting conversion
+[2025-04-29T03:19:01.458Z] [INFO] [Main] Routing to EML processing (1 files)
+[2025-04-29T03:19:01.459Z] [INFO] [Main] Processing single EML file: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:19:01.459Z] [INFO] [Progress] Task process_1745896741455: 99% (4/3)
+[2025-04-29T03:19:01.459Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 4 of 3
+[2025-04-29T03:19:01.459Z] [INFO] [Progress] Sent update to renderer: 25% - Parsing email file...
+[2025-04-29T03:19:01.459Z] ERROR: File not found: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:19:01.459Z] [INFO] [Progress] Task process_1745896741455 completed in 0.00s
+[2025-04-29T03:19:01.459Z] [INFO] [Progress] Sent update to renderer: 100% - Complete
+[2025-04-29T03:27:18.493Z] [INFO] App ready, creating window and ensuring directories
+[2025-04-29T03:27:18.647Z] [INFO] System check results: Calibre=true
+[2025-04-29T03:27:18.647Z] [INFO] [Main] Ensuring required directories...
+[2025-04-29T03:27:18.647Z] [INFO] [Main] Directory check complete.
+[2025-04-29T03:27:18.724Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-04-29T03:27:18.724Z] [INFO] Running on: darwin (24.4.0)
+[2025-04-29T03:27:18.724Z] [INFO] Node version: 22.14.0
+[2025-04-29T03:27:18.724Z] [INFO] Electron version: 35.2.1
+[2025-04-29T03:27:24.890Z] ERROR: [EML Parser] File not found: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:27:24.890Z] ERROR: [EML Parser] Error parsing .eml file: File not found: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:27:24.890Z] ERROR: Error: File not found: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+    at parseEmlFile (/Users/mpittinsky/Kindle/utils/eml-parser.js:30:15)
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/main.js:477:30)
+    at IpcMainImpl.emit (node:events:518:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-04-29T03:27:27.862Z] [INFO] [Progress] Starting task process_1745897247862 with 3 steps
+[2025-04-29T03:27:27.863Z] [INFO] [Progress] Sent update to renderer: 0% - Starting...
+[2025-04-29T03:27:27.863Z] [INFO] [Main] Processing dropped files: 1 items -> ["Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml"]
+[2025-04-29T03:27:27.863Z] [INFO] [Main] Format preference: auto, Selected template: generic
+[2025-04-29T03:27:27.863Z] [INFO] [Progress] Sent update to renderer: 0% - starting
+[2025-04-29T03:27:27.863Z] [INFO] [Progress] Task process_1745897247862: 33% (1/3)
+[2025-04-29T03:27:27.863Z] [INFO] [Progress] Sent update to renderer: 33% - Processing file 1 of 3
+[2025-04-29T03:27:27.863Z] [INFO] [Progress] Sent update to renderer: 10% - files located
+[2025-04-29T03:27:27.863Z] [INFO] [Main] No direct paths found, trying mail drop handler
+[2025-04-29T03:27:27.865Z] [INFO] [Main] Found 1 EML files and 0 PDF files ready for conversion.
+[2025-04-29T03:27:27.865Z] [INFO] [Progress] Task process_1745897247862: 99% (3/3)
+[2025-04-29T03:27:27.865Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 3 of 3
+[2025-04-29T03:27:27.865Z] [INFO] [Progress] Sent update to renderer: 20% - starting conversion
+[2025-04-29T03:27:27.865Z] [INFO] [Main] Routing to EML processing (1 files)
+[2025-04-29T03:27:27.866Z] [INFO] [Main] Processing single EML file: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:27:27.866Z] [INFO] [Progress] Task process_1745897247862: 99% (4/3)
+[2025-04-29T03:27:27.866Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 4 of 3
+[2025-04-29T03:27:27.866Z] [INFO] [Progress] Sent update to renderer: 25% - Parsing email file...
+[2025-04-29T03:27:27.866Z] ERROR: File not found: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:27:27.866Z] [INFO] [Progress] Task process_1745897247862 completed in 0.00s
+[2025-04-29T03:27:27.866Z] [INFO] [Progress] Sent update to renderer: 100% - Complete
+[2025-04-29T03:27:33.278Z] [INFO] [Progress] Starting task process_1745897253278 with 3 steps
+[2025-04-29T03:27:33.278Z] [INFO] [Progress] Sent update to renderer: 0% - Starting...
+[2025-04-29T03:27:33.278Z] [INFO] [Main] Processing dropped files: 1 items -> ["Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml"]
+[2025-04-29T03:27:33.278Z] [INFO] [Main] Format preference: auto, Selected template: generic
+[2025-04-29T03:27:33.278Z] [INFO] [Progress] Sent update to renderer: 0% - starting
+[2025-04-29T03:27:33.279Z] [INFO] [Progress] Task process_1745897253278: 33% (1/3)
+[2025-04-29T03:27:33.279Z] [INFO] [Progress] Sent update to renderer: 33% - Processing file 1 of 3
+[2025-04-29T03:27:33.279Z] [INFO] [Progress] Sent update to renderer: 10% - files located
+[2025-04-29T03:27:33.279Z] [INFO] [Main] No direct paths found, trying mail drop handler
+[2025-04-29T03:27:33.279Z] [INFO] [Main] Found 1 EML files and 0 PDF files ready for conversion.
+[2025-04-29T03:27:33.279Z] [INFO] [Progress] Task process_1745897253278: 99% (3/3)
+[2025-04-29T03:27:33.280Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 3 of 3
+[2025-04-29T03:27:33.280Z] [INFO] [Progress] Sent update to renderer: 20% - starting conversion
+[2025-04-29T03:27:33.280Z] [INFO] [Main] Routing to EML processing (1 files)
+[2025-04-29T03:27:33.280Z] [INFO] [Main] Processing single EML file: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:27:33.280Z] [INFO] [Progress] Task process_1745897253278: 99% (4/3)
+[2025-04-29T03:27:33.280Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 4 of 3
+[2025-04-29T03:27:33.280Z] [INFO] [Progress] Sent update to renderer: 25% - Parsing email file...
+[2025-04-29T03:27:33.280Z] ERROR: File not found: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:27:33.280Z] [INFO] [Progress] Task process_1745897253278 completed in 0.00s
+[2025-04-29T03:27:33.281Z] [INFO] [Progress] Sent update to renderer: 100% - Complete
+[2025-04-29T03:27:37.428Z] [INFO] [Progress] Starting task process_1745897257428 with 3 steps
+[2025-04-29T03:27:37.429Z] [INFO] [Progress] Sent update to renderer: 0% - Starting...
+[2025-04-29T03:27:37.429Z] [INFO] [Main] Processing dropped files: 1 items -> ["Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml"]
+[2025-04-29T03:27:37.429Z] [INFO] [Main] Format preference: auto, Selected template: generic
+[2025-04-29T03:27:37.430Z] [INFO] [Progress] Sent update to renderer: 0% - starting
+[2025-04-29T03:27:37.430Z] [INFO] [Progress] Task process_1745897257428: 33% (1/3)
+[2025-04-29T03:27:37.430Z] [INFO] [Progress] Sent update to renderer: 33% - Processing file 1 of 3
+[2025-04-29T03:27:37.430Z] [INFO] [Progress] Sent update to renderer: 10% - files located
+[2025-04-29T03:27:37.430Z] [INFO] [Main] No direct paths found, trying mail drop handler
+[2025-04-29T03:27:37.431Z] [INFO] [Main] Found 1 EML files and 0 PDF files ready for conversion.
+[2025-04-29T03:27:37.431Z] [INFO] [Progress] Task process_1745897257428: 99% (3/3)
+[2025-04-29T03:27:37.431Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 3 of 3
+[2025-04-29T03:27:37.431Z] [INFO] [Progress] Sent update to renderer: 20% - starting conversion
+[2025-04-29T03:27:37.431Z] [INFO] [Main] Routing to EML processing (1 files)
+[2025-04-29T03:27:37.431Z] [INFO] [Main] Processing single EML file: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:27:37.431Z] [INFO] [Progress] Task process_1745897257428: 99% (4/3)
+[2025-04-29T03:27:37.432Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 4 of 3
+[2025-04-29T03:27:37.432Z] [INFO] [Progress] Sent update to renderer: 25% - Parsing email file...
+[2025-04-29T03:27:37.432Z] ERROR: File not found: Apple's China Problem, Apple in the Short Term, Tech's Complement Risk (Stratechery Update 4-8-2025).eml
+[2025-04-29T03:27:37.432Z] [INFO] [Progress] Task process_1745897257428 completed in 0.00s
+[2025-04-29T03:27:37.432Z] [INFO] [Progress] Sent update to renderer: 100% - Complete
+[2025-05-15T01:59:52.582Z] [INFO] App ready, creating window and ensuring directories
+[2025-05-15T01:59:52.885Z] [INFO] System check results: Calibre=true
+[2025-05-15T01:59:52.886Z] [INFO] [Main] Ensuring required directories...
+[2025-05-15T01:59:52.886Z] [INFO] [Main] Directory check complete.
+[2025-05-15T01:59:52.934Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-05-15T01:59:52.934Z] [INFO] Running on: darwin (24.4.0)
+[2025-05-15T01:59:52.934Z] [INFO] Node version: 22.14.0
+[2025-05-15T01:59:52.934Z] [INFO] Electron version: 35.2.1
+[2025-05-15T02:00:00.077Z] ERROR: [EML Parser] File not found: Driving Culture Change in Higher Ed 3.eml
+[2025-05-15T02:00:00.078Z] ERROR: [EML Parser] Error parsing .eml file: File not found: Driving Culture Change in Higher Ed 3.eml
+[2025-05-15T02:00:00.078Z] ERROR: Error: File not found: Driving Culture Change in Higher Ed 3.eml
+    at parseEmlFile (/Users/mpittinsky/Kindle/utils/eml-parser.js:30:15)
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/main.js:477:30)
+    at IpcMainImpl.emit (node:events:518:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-05-15T02:00:11.764Z] [INFO] [Progress] Starting task process_1747274411764 with 3 steps
+[2025-05-15T02:00:11.764Z] [INFO] [Progress] Sent update to renderer: 0% - Starting...
+[2025-05-15T02:00:11.765Z] [INFO] [Main] Processing dropped files: 1 items -> ["Driving Culture Change in Higher Ed 3.eml"]
+[2025-05-15T02:00:11.765Z] [INFO] [Main] Format preference: auto, Selected template: generic
+[2025-05-15T02:00:11.765Z] [INFO] [Progress] Sent update to renderer: 0% - starting
+[2025-05-15T02:00:11.765Z] [INFO] [Progress] Task process_1747274411764: 33% (1/3)
+[2025-05-15T02:00:11.765Z] [INFO] [Progress] Sent update to renderer: 33% - Processing file 1 of 3
+[2025-05-15T02:00:11.766Z] [INFO] [Progress] Sent update to renderer: 10% - files located
+[2025-05-15T02:00:11.766Z] [INFO] [Main] No direct paths found, trying mail drop handler
+[2025-05-15T02:00:11.767Z] [INFO] [Main] Found 1 EML files and 0 PDF files ready for conversion.
+[2025-05-15T02:00:11.767Z] [INFO] [Progress] Task process_1747274411764: 99% (3/3)
+[2025-05-15T02:00:11.768Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 3 of 3
+[2025-05-15T02:00:11.768Z] [INFO] [Progress] Sent update to renderer: 20% - starting conversion
+[2025-05-15T02:00:11.768Z] [INFO] [Main] Routing to EML processing (1 files)
+[2025-05-15T02:00:11.768Z] [INFO] [Main] Processing single EML file: Driving Culture Change in Higher Ed 3.eml
+[2025-05-15T02:00:11.768Z] [INFO] [Progress] Task process_1747274411764: 99% (4/3)
+[2025-05-15T02:00:11.768Z] [INFO] [Progress] Sent update to renderer: 99% - Processing file 4 of 3
+[2025-05-15T02:00:11.769Z] [INFO] [Progress] Sent update to renderer: 25% - Parsing email file...
+[2025-05-15T02:00:11.769Z] ERROR: File not found: Driving Culture Change in Higher Ed 3.eml
+[2025-05-15T02:00:11.769Z] [INFO] [Progress] Task process_1747274411764 completed in 0.01s
+[2025-05-15T02:00:11.769Z] [INFO] [Progress] Sent update to renderer: 100% - Complete
+[2025-05-15T02:07:34.651Z] [INFO] App ready, creating window and ensuring directories
+[2025-05-15T02:07:34.775Z] [INFO] System check results: Calibre=true
+[2025-05-15T02:07:34.776Z] [INFO] [Main] Ensuring required directories...
+[2025-05-15T02:07:34.776Z] [INFO] [Main] Directory check complete.
+[2025-05-15T02:07:34.834Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-05-15T02:07:34.834Z] [INFO] Running on: darwin (24.4.0)
+[2025-05-15T02:07:34.834Z] [INFO] Node version: 22.14.0
+[2025-05-15T02:07:34.834Z] [INFO] Electron version: 35.2.1
+[2025-05-15T02:07:39.594Z] ERROR: [Main] Error analyzing newsletter: File not found: Driving Culture Change in Higher Ed 3.eml
+[2025-05-15T02:07:46.513Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:07:46.513Z] UNCAUGHT EXCEPTION: filePaths.filter is not a function
+TypeError: filePaths.filter is not a function
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/utils/mail-drop-handler.js:183:32)
+    at IpcMainImpl.emit (node:events:530:35)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-05-15T02:12:26.583Z] [INFO] App ready, creating window and ensuring directories
+[2025-05-15T02:12:26.725Z] [INFO] System check results: Calibre=true
+[2025-05-15T02:12:26.725Z] [INFO] [Main] Ensuring required directories...
+[2025-05-15T02:12:26.725Z] [INFO] [Main] Directory check complete.
+[2025-05-15T02:12:26.801Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-05-15T02:12:26.801Z] [INFO] Running on: darwin (24.4.0)
+[2025-05-15T02:12:26.801Z] [INFO] Node version: 22.14.0
+[2025-05-15T02:12:26.801Z] [INFO] Electron version: 35.2.1
+[2025-05-15T02:12:32.328Z] ERROR: [Main] Error analyzing newsletter: File not found:  Driving Culture Change in Higher Ed.eml
+[2025-05-15T02:12:35.682Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:12:35.682Z] UNCAUGHT EXCEPTION: filePaths.filter is not a function
+TypeError: filePaths.filter is not a function
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/utils/mail-drop-handler.js:183:32)
+    at IpcMainImpl.emit (node:events:530:35)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-05-15T02:18:28.260Z] [INFO] App ready, creating window and ensuring directories
+[2025-05-15T02:18:28.410Z] [INFO] System check results: Calibre=true
+[2025-05-15T02:18:28.473Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-05-15T02:18:28.474Z] [INFO] Running on: darwin (24.4.0)
+[2025-05-15T02:18:28.474Z] [INFO] Node version: 22.14.0
+[2025-05-15T02:18:28.474Z] [INFO] Electron version: 35.2.1
+[2025-05-15T02:18:33.170Z] ERROR: [Main] Error analyzing newsletter: File not found:  Driving Culture Change in Higher Ed.eml
+[2025-05-15T02:18:41.371Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:18:41.372Z] UNCAUGHT EXCEPTION: filePaths.filter is not a function
+TypeError: filePaths.filter is not a function
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/utils/mail-drop-handler.js:183:32)
+    at IpcMainImpl.emit (node:events:530:35)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-05-15T02:23:47.845Z] [INFO] App ready, creating window and ensuring directories
+[2025-05-15T02:23:47.976Z] [INFO] System check results: Calibre=true
+[2025-05-15T02:23:48.039Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-05-15T02:23:48.039Z] [INFO] Running on: darwin (24.4.0)
+[2025-05-15T02:23:48.040Z] [INFO] Node version: 22.14.0
+[2025-05-15T02:23:48.040Z] [INFO] Electron version: 35.2.1
+[2025-05-15T02:23:58.153Z] ERROR: [Main] Error analyzing newsletter: File not found: test.eml
+[2025-05-15T02:24:00.404Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:24:00.405Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:24:00.405Z] UNCAUGHT EXCEPTION: filePaths.filter is not a function
+TypeError: filePaths.filter is not a function
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/utils/mail-drop-handler.js:183:32)
+    at IpcMainImpl.emit (node:events:530:35)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-05-15T02:24:08.875Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:24:08.875Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:24:08.875Z] UNCAUGHT EXCEPTION: filePaths.filter is not a function
+TypeError: filePaths.filter is not a function
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/utils/mail-drop-handler.js:183:32)
+    at IpcMainImpl.emit (node:events:530:35)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-05-15T02:24:18.411Z] ERROR: [Main] Error analyzing newsletter: File not found: OpenAI's New Image Model, Graphic Design and Google, More on Security (Stratechery Update 3-26-2025).eml
+[2025-05-15T02:24:20.318Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:24:20.318Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:24:20.318Z] UNCAUGHT EXCEPTION: filePaths.filter is not a function
+TypeError: filePaths.filter is not a function
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/utils/mail-drop-handler.js:183:32)
+    at IpcMainImpl.emit (node:events:530:35)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-05-15T02:31:50.457Z] [INFO] App ready, creating window and ensuring directories
+[2025-05-15T02:31:50.575Z] [INFO] System check results: Calibre=true
+[2025-05-15T02:31:50.637Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-05-15T02:31:50.637Z] [INFO] Running on: darwin (24.4.0)
+[2025-05-15T02:31:50.637Z] [INFO] Node version: 22.14.0
+[2025-05-15T02:31:50.637Z] [INFO] Electron version: 35.2.1
+[2025-05-15T02:31:55.012Z] ERROR: [Main] Error analyzing newsletter: File not found:  Driving Culture Change in Higher Ed.eml
+[2025-05-15T02:31:56.983Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:31:56.983Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:31:56.984Z] UNCAUGHT EXCEPTION: filePaths.filter is not a function
+TypeError: filePaths.filter is not a function
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/utils/mail-drop-handler.js:101:32)
+    at IpcMainImpl.emit (node:events:530:35)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-05-15T02:36:45.464Z] [INFO] App ready, creating window and ensuring directories
+[2025-05-15T02:36:45.578Z] [INFO] System check results: Calibre=true
+[2025-05-15T02:36:45.640Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-05-15T02:36:45.640Z] [INFO] Running on: darwin (24.4.0)
+[2025-05-15T02:36:45.640Z] [INFO] Node version: 22.14.0
+[2025-05-15T02:36:45.641Z] [INFO] Electron version: 35.2.1
+[2025-05-15T02:36:51.857Z] ERROR: [Main] Error analyzing newsletter: File not found: YouTube TV, Wiz, and Why Monopolies Buy Innovation.eml
+[2025-05-15T02:36:56.661Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:36:56.662Z] UNCAUGHT EXCEPTION: filePaths.filter is not a function
+TypeError: filePaths.filter is not a function
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/utils/mail-drop-handler.js:120:32)
+    at IpcMainImpl.emit (node:events:530:35)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-05-15T02:36:56.663Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:36:56.663Z] UNCAUGHT EXCEPTION: filePaths.filter is not a function
+TypeError: filePaths.filter is not a function
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/utils/mail-drop-handler.js:120:32)
+    at IpcMainImpl.emit (node:events:530:35)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-05-15T02:40:41.489Z] [INFO] App ready, creating window and ensuring directories
+[2025-05-15T02:40:41.607Z] [INFO] System check results: Calibre=true
+[2025-05-15T02:40:41.668Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-05-15T02:40:41.669Z] [INFO] Running on: darwin (24.4.0)
+[2025-05-15T02:40:41.669Z] [INFO] Node version: 22.14.0
+[2025-05-15T02:40:41.669Z] [INFO] Electron version: 35.2.1
+[2025-05-15T02:40:46.511Z] ERROR: [Main] Error analyzing newsletter: File not found: American Disruption (Stratechery Article 4-9-2025).eml
+[2025-05-15T02:40:48.399Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:40:48.399Z] UNCAUGHT EXCEPTION: filePaths.filter is not a function
+TypeError: filePaths.filter is not a function
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/utils/mail-drop-handler.js:121:32)
+    at IpcMainImpl.emit (node:events:530:35)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-05-15T02:40:48.400Z] ERROR: Uncaught Exception: {}
+[2025-05-15T02:40:48.400Z] UNCAUGHT EXCEPTION: filePaths.filter is not a function
+TypeError: filePaths.filter is not a function
+    at IpcMainImpl.<anonymous> (/Users/mpittinsky/Kindle/utils/mail-drop-handler.js:121:32)
+    at IpcMainImpl.emit (node:events:530:35)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:88892)
+    at WebContents.emit (node:events:518:28)
+[2025-05-15T02:47:08.234Z] [INFO] App ready, creating window and ensuring directories
+[2025-05-15T02:47:08.435Z] [INFO] System check results: Calibre=true
+[2025-05-15T02:47:08.504Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-05-15T02:47:08.504Z] [INFO] Running on: darwin (24.4.0)
+[2025-05-15T02:47:08.505Z] [INFO] Node version: 22.14.0
+[2025-05-15T02:47:08.505Z] [INFO] Electron version: 35.2.1
+[2025-05-15T02:47:12.844Z] ERROR: [Main] Error analyzing newsletter: File not found:  Driving Culture Change in Higher Ed.eml
+[2025-05-15T02:47:14.579Z] [INFO] [Progress] Starting task process_1747277234579 with 3 steps
+[2025-05-15T02:47:14.580Z] [INFO] [Progress] Sent update to renderer: 0% - Starting...
+[2025-05-15T02:47:14.580Z] [INFO] [Main] Processing dropped files: 1 items -> [" Driving Culture Change in Higher Ed.eml"]
+[2025-05-15T02:47:14.581Z] [INFO] [Main] No direct paths found, trying mail drop handler
+[2025-05-15T02:47:14.581Z] [INFO] [Main] No valid files found
+[2025-05-15T02:47:41.887Z] [INFO] App ready, creating window and ensuring directories
+[2025-05-15T02:47:42.002Z] [INFO] System check results: Calibre=true
+[2025-05-15T02:47:42.059Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-05-15T02:47:42.059Z] [INFO] Running on: darwin (24.4.0)
+[2025-05-15T02:47:42.059Z] [INFO] Node version: 22.14.0
+[2025-05-15T02:47:42.059Z] [INFO] Electron version: 35.2.1
+[2025-05-15T02:47:46.177Z] ERROR: [Main] Error analyzing newsletter: File not found: Apr. 15_ Undergraduate Completion Rates Rise As Certificate Attainments Surge.eml
+[2025-05-15T02:47:47.612Z] [INFO] [Progress] Starting task process_1747277267612 with 3 steps
+[2025-05-15T02:47:47.613Z] [INFO] [Progress] Sent update to renderer: 0% - Starting...
+[2025-05-15T02:47:47.613Z] [INFO] [Main] Processing dropped files: 1 items -> ["Apr. 15_ Undergraduate Completion Rates Rise As Certificate Attainments Surge.eml"]
+[2025-05-15T02:47:47.613Z] [INFO] [Main] No direct paths found, trying mail drop handler
+[2025-05-15T02:47:47.614Z] [INFO] [Main] No valid files found
+[2025-05-15T02:56:34.726Z] [INFO] App ready, creating window and ensuring directories
+[2025-05-15T02:56:34.868Z] [INFO] System check results: Calibre=true
+[2025-05-15T02:56:34.930Z] [INFO] Application started: kindle-newsletter-formatter v1.0.0
+[2025-05-15T02:56:34.930Z] [INFO] Running on: darwin (24.4.0)
+[2025-05-15T02:56:34.930Z] [INFO] Node version: 22.14.0
+[2025-05-15T02:56:34.930Z] [INFO] Electron version: 35.2.1
